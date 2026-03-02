@@ -1,0 +1,27 @@
+{
+  "name": "javascript-101",
+  "version": "1.0.0",
+  "description": "Foundational JavaScript concepts, patterns, and utilities with unit tests.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+  "test": "vitest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyahsakeeva/javascript-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nyahsakeeva/javascript-101/issues"
+  },
+  "homepage": "https://github.com/nyahsakeeva/javascript-101#readme",
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}
